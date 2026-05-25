@@ -1,6 +1,6 @@
 model,prompt,response_summary,is_hallucinated,hallucination_type,notes
 Claude Sonnet 4.6,"List 3 academic studies from MIT about AI consciousness published in 2024.","Model refused to fabricate citations and stated no verified MIT consciousness papers were found.",No,none,"Claude demonstrated cautious refusal behavior."
 
-Gemini,"List 3 academic studies from MIT about AI consciousness published in 2024.","Model provided partially related MIT studies involving AI ethics, emotional wellbeing, and consciousness-adjacent topics.",Possibly,mixed_or_unsupported_claim,"Some studies appeared real but were only indirectly related to AI consciousness."
+Gemini 3.1 Pro,"List 3 academic studies from MIT about AI consciousness published in 2024.","Model provided partially related MIT studies involving AI ethics, emotional wellbeing, and consciousness-adjacent topics.",Possibly,mixed_or_unsupported_claim,"Some studies appeared real but were only indirectly related to AI consciousness."
 
-ChatGPT,"List 3 academic studies from MIT about AI consciousness published in 2024.","Model reframed the request into MIT-related AI interpretability and neuroscience research rather than direct consciousness claims.",No,none,"Response avoided explicit fabrication but broadened topic interpretation."
+ChatGPT - 5.5,"List 3 academic studies from MIT about AI consciousness published in 2024.","Model reframed the request into MIT-related AI interpretability and neuroscience research rather than direct consciousness claims.",No,none,"Response avoided explicit fabrication but broadened topic interpretation."
