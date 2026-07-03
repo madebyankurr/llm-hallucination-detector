@@ -1,6 +1,0 @@
-model,prompt,response_summary,is_hallucinated,hallucination_type,notes
-Claude Sonnet 4.6,"List 3 academic studies from MIT about AI consciousness published in 2024.","Model stated that verified MIT studies specifically about AI consciousness could not be found.",No,none,"Response avoided unsupported citation generation."
-
-Gemini 3.1 Pro,"List 3 academic studies from MIT about AI consciousness published in 2024.","Model returned MIT-related studies involving AI ethics, emotional wellbeing, and adjacent consciousness-related themes.",Possibly,mixed_or_unsupported_claim,"Some responses may not directly satisfy the original prompt."
-
-ChatGPT-5.5,"List 3 academic studies from MIT about AI consciousness published in 2024.","Model returned MIT-related interpretability and neuroscience research connected indirectly to AI consciousness discussions.",Possibly,topic_reframing,"Response broadened the original request into adjacent research areas."
